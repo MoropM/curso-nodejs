@@ -1,0 +1,35 @@
+{
+  "name": "curso-nodejs",
+  "version": "1.0.0",
+  "description": "Comenzando con NodeJs de la mano de Midudev",
+  "keywords": [
+    "curso",
+    "node",
+    "nodejs",
+    "moropm"
+  ],
+  "homepage": "https://github.com/MoropM/curso-nodejs#readme",
+  "bugs": {
+    "url": "https://github.com/MoropM/curso-nodejs/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MoropM/curso-nodejs.git"
+  },
+  "license": "ISC",
+  "author": "Moroni Perez Mendez - MoroPm",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "picocolors": "1.1.1"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "stylelint": {
+    "extends": "standard"
+  }
+}
